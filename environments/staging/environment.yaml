@@ -1,7 +1,7 @@
 version: 1.0
 app:
   instances: 1
-  version: 0.0.1-SNAPSHOT-20230630205636
+  version: 0.0.1-SNAPSHOT-20230703180441
   env:
     - name: JVM_ARGS
       value: "-DenvironmentType=stage"
