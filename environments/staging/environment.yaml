@@ -65,14 +65,14 @@ app:
   #    value: "true"
   #    # value: "false"
   # cloudwatch for metrics
-  metrics:
-    enabled: true
-    cloudwatch:
-      arn: arn:aws:logs:region:account-id:destination:destination_name
-      metrics:
-        - a
-        - b
-        - c
+  #metrics:
+  #  enabled: true
+  #  cloudwatch:
+  #    arn: arn:aws:logs:region:account-id:destination:destination_name
+  #    metrics:
+  #      - a
+  #      - b
+  #      - c
   version: "f7c9bc1e-9909-459d-aa96-2e353d5eea89"
 # probes
 # dynamic scaling
