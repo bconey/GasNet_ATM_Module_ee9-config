@@ -38,7 +38,7 @@ app:
       value: kzp10112
       # value: db2inst1
     - name: env.DBPass
-      value: "{aes}ALzaHkPLJOw5PeZUfI1mh08nUe1RKqM72VcGcGDHbo+UI7yUS8IX9iSmurxUu5Px4w=="
+      value: "{aes}AF4SZciNcDydw9hTcKltjk8AoCt1MOGSnWdG5selQa/pvAT4Z+UJ9bpsm05r8OGJvQ=="
       # value: "{aes}ANh0S4NFvjKZpQDrgS+mmTtPZC4N+ig0drkStfIhhHpv/gpCv3dnhUExaxxf1efpjg=="
     - name: env.sslconn
       value: "true"
