@@ -25,19 +25,19 @@ app:
       value: "-DenvironmentType=stage"
     - name: MY_ENV
       value: "1"
-    - name: env.DBHost
+    - name: DBHost
       value: "fbd88901-ebdb-4a4f-a32e-9822b9fb237b.c1ogj3sd0tgtu0lqde00.databases.appdomain.cloud"
       # value: "ec2-54-162-18-40.compute-1.amazonaws.com"
-    - name: env.DBName
+    - name: DBName
       value: BLUDB
       # value: STSECDB
-    - name: env.DBPort
+    - name: DBPort
       value: "32731"
       # value: "50000"
-    - name: env.DBUser
+    - name: DBUser
       value: kzp10112
       # value: db2inst1
-    - name: env.DBPass
+    - name: DBPass
       value: "{aes}AF4SZciNcDydw9hTcKltjk8AoCt1MOGSnWdG5selQa/pvAT4Z+UJ9bpsm05r8OGJvQ=="
       # value: "{aes}ANh0S4NFvjKZpQDrgS+mmTtPZC4N+ig0drkStfIhhHpv/gpCv3dnhUExaxxf1efpjg=="
     - name: env.sslconn
